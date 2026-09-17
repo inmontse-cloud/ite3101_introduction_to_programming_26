@@ -1,2 +1,2 @@
-todays_date = "sysdate" 
+todays_date = "17/09/2026" 
 
