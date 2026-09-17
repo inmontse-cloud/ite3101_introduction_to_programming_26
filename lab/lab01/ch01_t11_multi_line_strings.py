@@ -1,3 +1,3 @@
 haiku = = """The old pond,  
-Apt 7 Whosville, 
+A frog jumps in:  
 WZ 44494"""
