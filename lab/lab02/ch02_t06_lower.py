@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
-len(parrot)
+"Ryan".lower()
 print("parro")
