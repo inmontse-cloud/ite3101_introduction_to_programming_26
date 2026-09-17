@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
-"Ryan".lower()
+"parrot".lower()
 print(parrot)
