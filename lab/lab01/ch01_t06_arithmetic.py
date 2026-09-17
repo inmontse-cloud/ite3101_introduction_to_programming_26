@@ -1,1 +1,1 @@
-trippy_multiplication = 38 * 902 
+trippy_product = 38 * 902 
