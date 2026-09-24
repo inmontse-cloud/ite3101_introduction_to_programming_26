@@ -1,7 +1,7 @@
 ministry = "The Ministry of Silly Walks"
 
 len(ministry)
-lion.upper()
+ministry.upper()
 
 print()
 print()
