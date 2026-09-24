@@ -4,4 +4,4 @@ color = input("What is your favorite color? ")
 
 # Uncomment the below 2 line of code!
 print("Ah, so your name is %s(name), your quest is %s(quest), "
- "and your favorite color is %s(color)." ___ (name, quest, color))
+ "and your favorite color is %s(color)." (name, quest, color))
