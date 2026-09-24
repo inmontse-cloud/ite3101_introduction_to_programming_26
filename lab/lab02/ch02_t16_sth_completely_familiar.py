@@ -2,4 +2,4 @@
 
 my_string = "any string you'd like"
 print(len("my_string")) 
-print()
+print(my_string)
